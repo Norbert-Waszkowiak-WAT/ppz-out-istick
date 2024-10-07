@@ -6,6 +6,8 @@
 -Kacper Urbański
 -Piotr Żyła
 
+to my
+
 3.Cel główny projektu
 Gra jest pierwszo osobową strzelanką, w której gracz musi dotrzeć do celu pokonując fale przeciwników
 
