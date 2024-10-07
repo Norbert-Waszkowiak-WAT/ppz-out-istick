@@ -1,8 +1,6 @@
 1.Tytuł
 „Disposal unit” – gra komputerowa 
 
-tak
-
 2.Skład zespołu
 3B
 -Kacper Urbański
