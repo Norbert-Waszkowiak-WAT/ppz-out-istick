@@ -22,6 +22,7 @@ Języki programowania:
 Framework:
 -Unity
 -I możliwe inne(nie wiemy w czym się to pisze, przepraszamy)
+
 7.Harmonogram pracy dla etapów
 1-Podstawy
 -projektowanie wyglądu przeciwników(Żyła)
